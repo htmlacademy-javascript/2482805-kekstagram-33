@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Юрий](https://up.htmlacademy.ru/javascript/33/user/2482805).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
 
